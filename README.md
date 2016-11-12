@@ -3,6 +3,8 @@ This repo holds several bash scripts with the objective of creating a certain ty
 
 ![Alt text](img/Struct1.png?raw=true "Title")
 ![asfas]({{site.baseurl}}//Struct1.png)
+
+![asfas]({{site.baseurl}}//Struct2.png)
 ![]({{site.baseurl}}/https://github.com/GSejas/Design-Compiler-Project-Starter/blob/master/img/Struct1.png)
 
 [[https://github.com/GSejas/Design-Compiler-Project-Starter/blob/master/img/Struct1.png|alt=Struc]]
