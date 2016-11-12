@@ -25,7 +25,7 @@ Each subdirectory's function is stated below>
 
 ![Alt text](img/Struct2.png?raw=true "Title")
  
-For simulation, the present script creates a range of scripts to create the .saif file, and make power estimations based on real simulations.
+For simulation, the present script creates a range of scripts to create the .saif file, and make power estimations based on real simulations. The present scrip also creates a script called run_sim.sh with the intention of executing the simulation.
 
 The power estimation procedure is based on the work of this [guy.](http://www.googoolia.com/wp/2014/06/07/estimating-power-at-rtl-using-synopsys-design-compiler/)
 
