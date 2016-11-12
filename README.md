@@ -11,7 +11,7 @@ The front end structure is the directory where all the synthesis happens. The fo
 
 Each subdirectory's function is stated below:
 
--db : Here will be outputted the resulting gate level netlist (*.v) and the *.sdf file (this one holds the delays for each cell, inside the synthetyzed design). Both files will be generated during RTL synthesis.
+- db : Here will be outputted the resulting gate level netlist (*.v) and the *.sdf file (this one holds the delays for each cell, inside the synthetyzed design). Both files will be generated during RTL synthesis.
 
 - libs: Hold the standart cell library, as well as its graphical representation (*.sdb).  
 
